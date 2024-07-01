@@ -2169,18 +2169,6 @@ https://webtvstream.bhtelecom.ba/hls6/arena6.mpd
 
 
 
-#EXTINF:-1 group-title="SONY SPORT" tvg-id="sonyten1.in" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen1_HD.png",Sony Sports 1 HD
-https://mhdtvweb.com/sonyliv/stream.php?id=sony-ten-1-hd&=.m3u8|Referer=https://mhdtvweb.com/sonyliv/
-#EXTINF:-1 group-title="SONY SPORT" tvg-id="sonyten2.in" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen2_HD.png",Sony Sports 2 HD
-https://mhdtvweb.com/sonyliv/stream.php?id=sony-ten-2-hd&=.m3u8|Referer=https://mhdtvweb.com/sonyliv/
-#EXTINF:-1 group-title="SONY SPORT" tvg-id="sonyten3.in" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen3_HD.png",Sony Sports 3 HD
-https://mhdtvweb.com/sonyliv/stream.php?id=sony-ten-3-hd&=.m3u8|Referer=https://mhdtvweb.com/sonyliv/
-#EXTINF:-1 group-title="SONY SPORT" tvg-id="sonyten4.in" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen4_HD.png",Sony Sports 4 HD
-https://mhdtvweb.com/sonyliv/stream.php?id=sony-ten-4-hd&=.m3u8|Referer=https://mhdtvweb.com/sonyliv/
-#EXTINF:-1 group-title="SONY SPORT" tvg-id="sonysix.in" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen5_HD.png",Sony Sports 5 HD
-https://mhdtvweb.com/sonyliv/stream.php?id=sony-ten-5-hd&=.m3u8|Referer=https://mhdtvweb.com/sonyliv/
-
-
 #EXTINF:-1 tvg-name="Premiere Clubes.br" group-title="SPORTS BRAZIL" tvg-logo="https://i.ibb.co/F0jTVwQ/premierebr.png", PREMIERE 1 🇧🇷
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
